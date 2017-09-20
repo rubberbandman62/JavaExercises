@@ -1,0 +1,1 @@
+This repository should eventually contain solutions to the exercise from the book "Exercise for Programmers" by Brian P. Hogan.
