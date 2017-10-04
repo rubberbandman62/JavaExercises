@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class PrintingQuotes {
 
-	private static Scanner scanner = new Scanner(System.in);
+	private static Scanner scanner;
 
 	public static void main(String[] args) {
 		scanner = new Scanner(System.in);
